@@ -13,7 +13,7 @@ body{
 .sidebar{
     background-color: black;
     border-radius: 1rem;
-    width: 340px;
+    width: 25vw;
 }
 .main-content {
     padding: 0 1.5rem 100px 1.5rem;
